@@ -58,7 +58,8 @@ This professional-grade **Augmented Reality (AR) dragon game** is built with Uni
 
 ### 🐲 Dragon Collection
   - Dragon Nightmare
-(https://github.com/user-attachments/assets/04ec9f0e-8f1c-478a-9062-53a7593b441b)
+![Dragon1](https://github.com/user-attachments/assets/95fbaa7c-8fb5-4804-b5d6-3f7814355e8e)
+
 
 
 ### 🎭 Rich Animations
@@ -157,9 +158,12 @@ Manages the AR-based spawning and lifecycle of the dragons:
 1.  **Launch the App**: Open the game on your ARCore-compatible Android device.
 2.  **Scan an Image**: Point your camera at one of the reference images.
 ![Dragon1](https://github.com/user-attachments/assets/d4ead620-fb9e-458b-ab73-ac893ee182c7)
-
 3.  **Spawn a Dragon**: A dragon will appear in the real world, anchored to the image.
+<img width="1605" height="715" alt="image" src="https://github.com/user-attachments/assets/050ecdf4-e172-4a41-84d5-82c12ab5cc47" />
+
 4.  **Control the Dragon**: Use the on-screen joystick to move the dragon around your environment.
+<img width="1618" height="725" alt="image" src="https://github.com/user-attachments/assets/a5358994-0ed1-482f-9807-67d36f4e29c0" />
+
 5.  **Explore**: Interact with different dragons and enjoy the immersive experience.
 
 ---
