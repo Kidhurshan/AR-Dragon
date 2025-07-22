@@ -57,9 +57,8 @@ This professional-grade **Augmented Reality (AR) dragon game** is built with Uni
 - **Real-time Interaction**: Control dragons in real-world space with smooth, physics-based movement.
 
 ### 🐲 Dragon Collection
-- **4 Unique Dragon Types**:
   - Dragon Nightmare
-![Dragon1](https://github.com/user-attachments/assets/04ec9f0e-8f1c-478a-9062-53a7593b441b)
+(https://github.com/user-attachments/assets/04ec9f0e-8f1c-478a-9062-53a7593b441b)
 
 
 ### 🎭 Rich Animations
