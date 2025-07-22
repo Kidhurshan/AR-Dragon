@@ -41,8 +41,9 @@
 ## 📖 About The Project
 
 <p align="center">
-  <img src="Screenshot%202024-10-05%20180430.jpg" alt="Gameplay Screenshot" width="600" />
+  <img src="https://github.com/user-attachments/assets/ecd24fd2-f806-4eb5-9e26-76eade956dbf" alt="Gameplay Screenshot" width="600" />
 </p>
+
 
 This professional-grade **Augmented Reality (AR) dragon game** is built with Unity and ARCore, designed to bring mythical dragons to life in your real-world environment. It leverages advanced AR image tracking, high-fidelity 3D assets, and smooth mobile controls to deliver an engaging and interactive experience. Whether for entertainment, education, or demonstration of AR capabilities, this project showcases best practices in Unity AR development.
 
@@ -58,17 +59,13 @@ This professional-grade **Augmented Reality (AR) dragon game** is built with Uni
 ### 🐲 Dragon Collection
 - **4 Unique Dragon Types**:
   - Dragon Nightmare
-  - Dragon Soul Eater
-  - Dragon Terror Bringer
-  - Dragon Usurper
-- **Multiple Color Variants** for each dragon type.
+![Dragon1](https://github.com/user-attachments/assets/04ec9f0e-8f1c-478a-9062-53a7593b441b)
+
 
 ### 🎭 Rich Animations
 Each dragon features a comprehensive animation set, including:
 - **Movement**: Walk, Run, Jump, Fly
 - **Combat**: Various attack animations
-- **Reactions**: Defend, Get Hit, Die
-- **Behaviors**: Idle, Sleep, Scream
 
 ---
 
@@ -160,6 +157,8 @@ Manages the AR-based spawning and lifecycle of the dragons:
 
 1.  **Launch the App**: Open the game on your ARCore-compatible Android device.
 2.  **Scan an Image**: Point your camera at one of the reference images.
+![Dragon1](https://github.com/user-attachments/assets/d4ead620-fb9e-458b-ab73-ac893ee182c7)
+
 3.  **Spawn a Dragon**: A dragon will appear in the real world, anchored to the image.
 4.  **Control the Dragon**: Use the on-screen joystick to move the dragon around your environment.
 5.  **Explore**: Interact with different dragons and enjoy the immersive experience.
