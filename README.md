@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://youtu.be/kpfNc8FErFY">
-    <img src="https://img.youtube.com/vi/U1e-rc4PU6Q/maxresdefault.jpg" alt="Project Demo Video" width="600" />
+    <img src="https://github.com/user-attachments/assets/7467f794-bf0f-451e-8a84-c4a1b0f9adec" alt="Project Demo Video" width="600" />
   </a>
 </p>
 
